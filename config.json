@@ -1,9 +1,5 @@
 {
-	"ip":"donator3.falixnodes.net",
-	"port": 25710,
-	"name": "afkbot1",
-	"auto-night-skip":"false",
-	"login-enabled":"true",
-	"register-cmd":"/register (white444(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
-	"login-cmd":"/login (white444)"
+	"ip":"ShubhamYT691.aternos.me",
+	"port": "18316",
+	"name": "afkbot"
 }
